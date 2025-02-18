@@ -1,6 +1,6 @@
-# [USTC FLICAR: A Sensors Fusion Dataset of Lidar-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots (IJRR 2023)](https://journals.sagepub.com/doi/abs/10.1177/02783649231195650)
+# [K2MUSE dataset: A Multimodal Lower Limb Dataset under Variable Conditions](https://journals.sagepub.com/doi/abs/10.1177/02783649231195650)
 
-### [Website: https://ustc-flicar.github.io/](https://ustc-flicar.github.io/)
+### [Website: https://k2muse.github.io/](https://k2muse.github.io/)
 
 # 📢 Updates
 
@@ -15,7 +15,7 @@
 
 ![Flicar_Sence](images/flicar_changjing.png)
 
-This site presents the USTC FLICAR Dataset, collected from our research on heavy-duty autonomous aerial work robots, featuring a comprehensive set of [sensors](https://ustc-flicar.github.io/sensors/):
+This site presents the K2MUSE Dataset, collected from our research on heavy-duty autonomous aerial work robots, featuring a comprehensive set of [sensors](https://ustc-flicar.github.io/sensors/):
 
 * Four 3D LiDARs (Velodyne HDL32/VLP32; LiVOX Avia; Ouster OS0-128)
 * Two stereo cameras (Bumblebee XB3/XB2)

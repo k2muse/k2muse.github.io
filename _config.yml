@@ -17,7 +17,7 @@ slogan: 'K2MUSE dataset: A Multimodal Lower Limb Dataset under Variable Conditio
 description: '» K2MUSE: Multimodal Fusion Dataset of Kinematics-Kinetics-AUS-EMG for Lower-limb rehabilitation robots'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="http://home.ustc.edu.cn/~wm13039278866/index_EN.html">Ziming Wang</a> @USTC. Website based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by Jiwei Li @SIA. Website based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,8 +25,8 @@ author: Jiwei Li
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'https://k2muse.github.io'
-#baseurl: '/Zimmad'
+url: 'https://k2muse.github.io'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
