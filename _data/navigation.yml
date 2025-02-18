@@ -6,9 +6,6 @@
   url: "/datasets/"
   side: left
 
-- title: Semantic
-  url: "/semantic/"
-  side: left
 
 - title:  Acquisition System
   url: "/system/"
