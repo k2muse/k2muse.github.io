@@ -42,17 +42,8 @@ widget3:
 homepage: true
 ---
 
-# Welcome to USTC FLICAR Dataset!
-### — USTC <font color="red">FLICAR</font>: A Sensors <font color="red">F</font>usion Dataset of <font color="red">L</font>idar-<font color="red">I</font>nertial-<font color="red">C</font>amera for Heavy-duty Autonomous <font color="red">A</font>erial Work <font color="red">R</font>obots
-## 📢 Updates
-
-🚀 **23/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2) !
-
-<img src="images/livo2.png" alt="Fast-LIVO2" width="80%">
-
-🚀 **01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
-
-
+# Welcome to K2MUSE Dataset!
+### — <font color="red">K2MUSE</font>: A Comprehensive Dataset of <font color="red">K</font>inematic, <font color="red">K</font>inetics, <font color="red">M</font>ultimodal amplitude mode <font color="red">U</font>ltrasound and <font color="red">S</font>urface <font color="red">E</font>lectromyography 
 
 
 ### Introduction

@@ -1,15 +1,5 @@
-# [K2MUSE dataset: A Multimodal Lower Limb Dataset under Variable Conditions](https://journals.sagepub.com/doi/abs/10.1177/02783649231195650)
-
+# K2MUSE dataset: A Multimodal Lower Limb Dataset under Variable Conditions
 ### [Website: https://k2muse.github.io/](https://k2muse.github.io/)
-
-# 📢 Updates
-
-🚀 **23/01/2025**: Support the **SOTA** LIVO System: [Fast-LIVO2](https://github.com/hku-mars/FAST-LIVO2)!
-
-![Fast-LIVO2](images/livo2.png)
-
-🚀 **01/09/2024**: The [author](https://ustc-flicar.github.io/contact/) came to the [HKU MaRS Lab](https://mars.hku.hk/) for postgraduate study under supervised by [Prof. Fu Zhang](https://scholar.google.com/citations?user=V-eYCF8AAAAJ&hl=zh-CN&oi=ao) and continued his journey in robotics and SLAM
-
 
 # Introduction
 
