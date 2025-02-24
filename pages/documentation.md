@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title: "Documentation"
-subheadline: "USTC FLICAR Dataset"
-teaser: "The documentation is preprint paper of USTC FLICAR Dataset"
+subheadline: "K2MUSE Dataset"
+teaser: "The documentation is preprint paper of K2MUSE Dataset"
 permalink: "/documentation/"
 header: no
 # Documentation Page

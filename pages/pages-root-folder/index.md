@@ -20,7 +20,7 @@ widget2:
   image: acquisition_index.png
   text: ''
 widget3:
-  title: "Sensors & Usage"
+  title: "Usage"
   url: '/sensors/index.html'
   image: sensors_page1.png
   text: ''
@@ -57,22 +57,6 @@ homepage: true
 -->
 
 
-
-
-## Are We Ready for Aerial Work Robots? <br> Or Be Bolder, Build on Mars?
-
-<table>
-  <tr>
-    <td><img src="../../images/z_aerial_robot.png" width = "100%"></td>
-  </tr>
-</table>
-
-### Some aerial work scenarios in our daily life:
-<table>
-  <tr>
-    <td><img src="../../images/aerialwork_all.png" width = "100%"></td>
-  </tr>
-</table>
 
 
 
