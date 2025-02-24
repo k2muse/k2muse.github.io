@@ -8,9 +8,8 @@ header:
    image_fullwidth: "header_unsplash_9.jpg"
 breadcrumb: true
 permalink: "/datasets/"
-# Downloads
+# Downloads Page
 ---
-##### Before downloading individual datasets, you can find some useful tools and SDK from the <a href="../quick_use">quick use</a> page. 
 
 
 <div class="row listing listing-link listing-odd">
