@@ -6,9 +6,7 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 phlow: # replace this with your info
-  name: "Ziming Wang"
+  name: "Jiwei Li"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
-  email: zimingwang@mail.ustc.edu.cn
-  twitter: "@phlow"
+  email: lijiwei@sia.cn
 # you can add more authors here
