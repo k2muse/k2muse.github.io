@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_laboratory.png # header_unsplash_12.jpg
 permalink: /index.html
 
 widget1:
@@ -43,7 +43,7 @@ homepage: true
 ---
 
 # Welcome to K2MUSE Dataset!
-### — <font color="red">K2MUSE</font>: A Comprehensive Dataset of <font color="red">K</font>inematic, <font color="red">K</font>inetics, <font color="red">M</font>ultimodal amplitude mode <font color="red">U</font>ltrasound and <font color="red">S</font>urface <font color="red">E</font>lectromyography 
+### — <font color="red">K2MUSE</font>: A Comprehensive Dataset of <font color="red">K</font>inematics, <font color="red">K</font>inetics, <font color="red">M</font>ultimodal amplitude mode <font color="red">U</font>ltrasound and <font color="red">S</font>urface <font color="red">E</font>lectromyography 
 
 
 ### Introduction
