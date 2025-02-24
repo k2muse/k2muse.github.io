@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Sensors & Usage"
+title: "Usage"
 #subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/sensors/"
+permalink: "/Usage/"
 ---
 <div class="panel radius" markdown="1">
 **Table of Contents**
