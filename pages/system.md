@@ -3,7 +3,7 @@ layout: page-fullwidth
 show_meta: false
 title: "Acquisition System"
 header:
-   image_fullwidth  : "ac_background.png"
+   image_fullwidth  : "laboratory_scene.png"
 permalink           : "/system/"
 ---
 <div class="panel radius" markdown="1">

@@ -5,7 +5,7 @@ title: "Usage"
 #subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/Usage/"
+permalink: "/usage/"
 ---
 <div class="panel radius" markdown="1">
 **Table of Contents**

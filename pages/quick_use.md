@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title: "Quick Use"
-subheadline: "USTC FLICAR Dataset"
-teaser: "We have experimented with some state-of-the-art methods on our dataset. And some convenient and useful tools and SDK are provided for using the dataset.</br> If you are seeking to do the same, please check out the following to get the work done quickly."
+subheadline: "K2MUSE Dataset"
+teaser: "We have experimented with some methods on our dataset. And some tools and SDK are provided for using the dataset."
 permalink: "/quick_use/"
 header: no
 ---
