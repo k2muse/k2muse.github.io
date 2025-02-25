@@ -55,11 +55,3 @@ homepage: true
   <img src="https://img.shields.io/github/stars/ustc-flicar/ustc-flicar.github.io.svg?style=social" alt="Star me!" style="width: 150px; height: 40px;">
 </a>
 -->
-
-
-
-
-
-
-
-
