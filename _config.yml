@@ -43,8 +43,7 @@ urlimg: '../images/'
 
 
 # Logo size is 600x80 pixels
-# logo: "logo.png"
-logo: no
+logo: "logo.png"
 
 # Plugins
 plugins:
