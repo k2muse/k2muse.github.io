@@ -25,7 +25,7 @@ The sensor setup is illustrated in [Fig. 1](#fig-harware). The corresponding ROS
 
 
 ## Motion Capture System
-The motion capture system . 
+The motion capture system  
 
 
 
