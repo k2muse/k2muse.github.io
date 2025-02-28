@@ -13,36 +13,33 @@
   dropdown:
   - title: "Overview"
     url: "/system/index#overview"
-    #url: "/design/grid/"
-  - title: "Bucket Truck"
-    url: "/system/index#bucket-truck"  #注意 bucket-truck的格式
-  - title: "Multisensors Platform"
-    url: "/system/index#multisensors-platform"
-  - title: "Ground Truth"
-    url: "/system/index#ground-truth"
+  - title: "Motion Capture System"
+    url: "/system/index#motion-Capture-System"
+  - title: "Instrumented Treadmill"
+    url: "/system/index#instrumented-treadmill"
+  - title: "Surface Electromyography"
+    url: "/system/index#surface-electromyography"
+  - title: "Amplitude Mode Ultrasound"
+    url: "/system/index#amplitude-mode-ultrasound"
 
-- title: "Sensors & Usage"
-  url: "/sensors/"
+
+- title: " Usage"
+  url: "/usage/"
   side: left
   dropdown:
   - title: "Overview"
-    url: "/sensors/index#overview"
-  - title: "Motion Capture System"
-    url: "/sensors/index#motion-Capture-System"
-  - title: "Instrumented Treadmill"
-    url: "/sensors/index#instrumented-treadmill"
-  - title: "Surface Electromyography"
-    url: "/sensors/index#surface-electromyography"
-  - title: "Amplitude Mode Ultrasound"
-    url: "/sensors/index#amplitude-mode-ultrasound"
+    url: "/usage/index#overview"
+  - title: "Load And Segment"
+    url: "/usage/index#load-and-segment"
+  - title: "Plot Kinematics"
+    url: "/usage/index#plot-kinematics"
+  - title: "Angle Regression"
+    url: "/usage/index#angle-regression"    
 
 - title: Documentation
   url: "/documentation/"
   side: left
 
-- title: "Quick Use"
-  url: "/quick_use/"
-  side: left
 
 #- title: "Citation"
 #  url: "/citation/"

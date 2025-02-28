@@ -6,25 +6,25 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_laboratory.png # header_unsplash_12.jpg
+  image_fullwidth: header_laboratory.png
 permalink: /index.html
 
 widget1:
   title: "Downloads"
   url: '/datasets/index.html'
-  image: unsplash_9.jpg
+  image: downloads.jpg
   text: ''
 widget2:
   title: "Acquisition System"
   url: '/system/index.html'
-  image: acquisition_index.png
+  image: acquisition_system.png
   text: ''
 widget3:
   title: "Usage"
-  url: '/sensors/index.html'
-  image: sensors_page1.png
+  url: '/usage/index.html'
+  image: usage_page1.png
   text: ''
-#
+
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -43,15 +43,9 @@ homepage: true
 ---
 
 # Welcome to K2MUSE Dataset!
-### — <font color="red">K2MUSE</font>: A Comprehensive Dataset of <font color="red">K</font>inematics, <font color="red">K</font>inetics, <font color="red">M</font>ultimodal amplitude mode <font color="red">U</font>ltrasound and <font color="red">S</font>urface <font color="red">E</font>lectromyography 
+### — <font color="red">K2MUSE</font>: A Large-scale Human Lower limb Dataset of <font color="red">K</font>inematics, <font color="red">K</font>inetics, <font color="red">M</font>ultimodal amplitude mode <font color="red">U</font>ltrasound and <font color="red">S</font>urface <font color="red">E</font>lectromyography
 
+### — We hope that this dataset serves as the Key To MUSE in your research.
 
-### Introduction
-##### We present the *[USTC FLICAR Dataset](https://journals.sagepub.com/doi/abs/10.1177/02783649231195650)*, which is dedicated to the development of simultaneous localization and mapping  and precise 3D reconstruction of the workspace for heavy-duty autonomous aerial work robots. In recent years, numerous public datasets have played significant roles in the advancement of autonomous cars and UAVs. However, these two platforms differ from aerial work robots: UAVs are limited in their payload capacity, while cars are restricted to two-dimensional movements. To fill this gap, we create the “Giraffe" mapping robot based on a bucket truck, which is equipped with a variety of well-calibrated and synchronized sensors: four 3D LiDARs, two stereo cameras, two monocular cameras, Inertial Measurement Units (IMUs), and a GNSS/INS system.
-
-<!--
-### Do you like the project? Star us on GitHub to support the project!
-<a href="https://github.com/ustc-flicar/ustc-flicar.github.io" title="Star me!" style="display:inline-block">
-  <img src="https://img.shields.io/github/stars/ustc-flicar/ustc-flicar.github.io.svg?style=social" alt="Star me!" style="width: 150px; height: 40px;">
-</a>
--->
+## Introduction
+##### we present the *[K2MUSE dataset]*, which includes kinematics, kinetics, multimodal amplitude-mode ultrasound (AUS), and surface electromyography (sEMG) data. The proposed dataset includes lower-limb multimodal data from 30 able-bodied participants walking under different inclines (0◦, ±5◦, ±10◦), various speeds (0.5 m/s, 1.0 m/s, and 1.5 m/s), and different non-ideal acquisition conditions. The kinematic and ground reaction force data were collected using a Vicon motion capture system and an instrumented treadmill with embedded force plates, while sEMG and AUS data were synchronously recorded for thirteen muscles on bilateral lower limbs. This dataset offers a new resource for designing control frameworks for rehabilitation robots and conducting biomechanical analysis of lower-limb locomotion.
