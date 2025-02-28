@@ -20,7 +20,7 @@ The biomechanics laboratory is illustrated in [Fig. 1](#fig-laboratory).
 
 
 <p align="center">
-    <img src="../images/laboratory_scene.png" width="100%"/>
+    <img src="../images/laboratory_scene_full.png" width="100%"/>
 </p>
 <p style="text-align: center;">Fig 1. caption</p>
 
