@@ -1,19 +1,10 @@
 - menu_name: "Link"
 
-- name: "University of Science & Technology of China"
-  url: "http://en.ustc.edu.cn/"
-  #title: "Contact"
+- name: "Shenyang Institute of Automation, Chinese Academy of Sciences"
+  url: "http://www.sia.cas.cn/"
 
-- name: "School of Computer Science, USTC"
-  url: "http://en.cs.ustc.edu.cn/"
-  #title: "Contact"
+- name: "State Key Laboratory of Robotics, SIA"
+  url: "http://www.sia.cas.cn/jgsz/kyxt/jqrxyjs/"
 
-- name: "School of Engineering Science, USTC"
-  url: "https://en.ses.ustc.edu.cn/"
-  #title: "Subscribe to RSS Feed"
-
-- name: "Author:Ziming Wang's Homepage"
-  url: "http://home.ustc.edu.cn/~wm13039278866/index_EN.html"
-  #title: "Subscribe to Atom Feed"
-
-
+- name: "Author: Jiwei Li"
+  url: "https://github.com/k2muse?tab=repositories"
