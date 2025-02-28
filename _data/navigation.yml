@@ -23,7 +23,7 @@
     url: "/system/index#amplitude-mode-ultrasound"
 
 
-- title: " Usage"
+- title: "Data Usage"
   url: "/usage/"
   side: left
   dropdown:
