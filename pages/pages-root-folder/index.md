@@ -12,7 +12,7 @@ permalink: /index.html
 widget1:
   title: "Downloads"
   url: '/datasets/index.html'
-  image: downloads.jpg
+  image: downloads.png
   text: ''
 widget2:
   title: "Acquisition System"
