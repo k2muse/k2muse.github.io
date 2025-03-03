@@ -42,10 +42,12 @@ widget3:
 homepage: true
 ---
 
+
 # Welcome to K2MUSE Dataset!
 ### — <font color="red">K2MUSE</font>: A Large-scale Human Lower limb Dataset of <font color="red">K</font>inematics, <font color="red">K</font>inetics, <font color="red">M</font>ultimodal amplitude mode <font color="red">U</font>ltrasound and <font color="red">S</font>urface <font color="red">E</font>lectromyography
 
 ### — We hope that this dataset serves as the 'Key To MUSE' in your research.
+
 
 Do you like the project? Please star🌟 us on GitHub to support the project! Thank you very much for your support!
 <a href="https://github.com/k2muse/k2muse.github.io" title="Star me!" style="display:inline-block">
