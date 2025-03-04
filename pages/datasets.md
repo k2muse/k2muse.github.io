@@ -342,6 +342,76 @@ permalink: "/datasets/"
     </tbody>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">NormalizedData.(Condition).(AmbulationMode).(Speed).(TrialNumber).(Datatype).(Variable)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(Condition)</td>
+            <td>=</td>
+            <td>Different acquisition conditions, including ideal condition (<u>Ideal</u>), muscle fatigue (<u>Fatigue</u>), electrode shifts (<u>ShiftInitial, ShiftUpward, ShiftDownward, ShiftLeftward, ShiftRightward</u>), and inter-day variations (<u>InterDay</u>).</td>
+        </tr>
+        <tr>
+            <td>(AmbulationMode)</td>
+            <td>=</td>
+            <td>Different ramps and angles, represented as "Terrain-Angle," including <u>AS_5</u>, <u>AS_10</u>, <u>DS_5</u>, <u>DS_10</u>, and <u>LG_0</u>.</td>
+        </tr>
+        <tr>
+            <td>(Speed)</td>
+            <td>=</td>
+            <td>Walking speeds: <u>S_0x5</u>, <u>S_1x0</u>, and <u>S_1x5</u> correspond to speeds of 0.5 m/s, 1.0 m/s, and 1.5 m/s, respectively.</td>
+        </tr>
+        <tr>
+            <td>(TrialNumber)</td>
+            <td>=</td>
+            <td>The number of walking trials: For the muscle fatigue experiments, it ranges from <u>1 to 10</u>, while for the other conditions, the trials range from <u>1 to 5</u>.</td>
+        </tr>
+        <tr>
+            <td rowspan="7">(Datatype)</td>
+            <td rowspan="7">=</td>
+            <td><u>Markers</u>: Position of markers in global coordinates (unit: m).</td>
+        </tr>
+        <tr>
+            <td><u>Angles</u>: Tracks the joint angle in three dimensions (unit: deg).</td>
+        </tr>
+        <tr>
+            <td><u>Forces</u>: Tracks the resultant force at each joint (unit: N/kg).</td>
+        </tr>
+        <tr>
+            <td><u>Moments</u>: Tracks the moment (or Torque) about each joint (unit: N*m/kg).</td>
+        </tr>
+        <tr>
+            <td><u>Powers</u>: The power output by the joint (unit: W/kg).</td>
+        </tr>
+        <tr>
+            <td><u>Events</u>: Bilateral heel strikes after stable walking, based on frames.</td>
+        </tr>
+        <tr>
+            <td><u>USData</u>: AUS data segmented by left leg heel strikes, with dimensions of N*1, representing N gait cycles.</td>
+        </tr>
+        <tr>
+            <td><u>EMGData</u>: sEMG data segmented by bilateral heel strikes, divided into "Right" and "Left."</td>
+        </tr>
+        <tr>
+            <td rowspan="4">(Variable)</td>
+            <td rowspan="4">=</td>
+            <td>The final field for all data types.</td>
+        </tr>
+        <tr>
+            <td>For heel strikes, the variables include <b>LStartFrame</b>, <b>LEndFrame</b>, <b>RStartFrame</b>, and <b>REndFrame</b>, with dimensions of 1*M, representing M gait events.</td>
+        </tr>
+        <tr>
+            <td>For marker trajectories, kinematic, and kinetic data, each variable includes: <b>rsGaitData</b> - All resampled gait data for the current trial; <b>MeanValues</b> - The average of all gait data for that trial; <b>StdValues</b> - The root mean square error for all gait data for that trial.</td>
+        </tr>
+        <tr>
+            <td>For AUS data, each gait corresponds to M*1 data, where M represents the number of frames for that gait. For EMG data, each gait in "Right" or "Left" corresponds to P*9 or P*4 data, where P represents the number of sampling points for that gait.</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Pictures of Participants
 
