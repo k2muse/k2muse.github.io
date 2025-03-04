@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Usage"
   url: '/usage/index.html'
-  image: usage_page1.png
+  image: usage_page.png
   text: ''
 
 # Use the call for action to show a button on the frontpage

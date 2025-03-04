@@ -5,11 +5,10 @@ title: "Datasets"
 #subheadline: "Feeling Responsive Theme Changelog"
 #teaser: "History and changelog of Feeling Responsive Theme"
 
-# header:
-#    image_fullwidth: "downloads.png"
+header:
+   image_fullwidth: "DatasetStructure(full).png"
 breadcrumb: true
 
-header: no
 permalink: "/datasets/"
 # Downloads Page
 ---
@@ -29,7 +28,7 @@ permalink: "/datasets/"
 　　The raw data and processed data are stored in the '*SourceData'*  and '*ProcessedData'*  folders, respectively. The specific structure of the dataset is as follows:
 
 <p align="center">
-    <img src="../images/DatasetStructure(full).png" alt="DatasetStructure(full)" width="100%"/>
+    <img src="../images/DatasetStructure(full).png" alt="DatasetStructure(full)" width="50%"/>
 </p>
 
 
@@ -41,7 +40,7 @@ permalink: "/datasets/"
 　　The folder structure is as follows:
 
 <p align="center">
-    <img src="../images/DatasetStructure(Source).png" alt="DatasetStructure(Source)" width="100%"/>
+    <img src="../images/DatasetStructure(Source).png" alt="DatasetStructure(Source)" width="70%"/>
 </p>
 
 
@@ -196,7 +195,7 @@ permalink: "/datasets/"
 　　The experimental data is saved in uniform MATLAB structures, with each subject corresponding to a separate "P\*.mat" file. Each "P\*.mat" file contains two identical structured structs: "*OriginalData*" and "*NormalizedData*," which correspond to the raw extracted data and the gait-normalized data, respectively. The folder structure is as follows:
 
 <p align="center">
-    <img src="../images/DatasetStructure(Processed).png" alt="DatasetStructure(Processed)" width="100%"/>
+    <img src="../images/DatasetStructure(Processed).png" alt="DatasetStructure(Processed)" width="70%"/>
 </p>
 
 　　‍
@@ -327,7 +326,8 @@ permalink: "/datasets/"
             <td><u>EMGData</u>: sEMG data segmented by bilateral heel strikes, divided into "Right" and "Left"</td>
         </tr>
         <tr>
-            <td>(Variable)</td>
+            <td rowspan="4">(Variable)</td>
+            <td rowspan="4">=</td>
             <td>The final field for all data types</td>
         </tr>
         <tr>
@@ -350,7 +350,7 @@ permalink: "/datasets/"
 　　The following are the frontal views of 30 subjects in the ideal conditions and muscle fatigue experiments:
 
 <p align="center">
-    <img src="../images/ParticipantsPictures.png" alt="ParticipantsPictures" width="100%"/>
+    <img src="../images/ParticipantsPictures.png" alt="ParticipantsPictures" width="90%"/>
 </p>
 
 
@@ -359,7 +359,7 @@ permalink: "/datasets/"
 　　The following are the frontal views of 8 participants in the electrode shifts experiment. From left to right, each column corresponds to the following shift directions: ShiftInitial, ShiftUpward, ShiftDownward, ShiftLeftward, and ShiftRightward.
 
 <p align="center">
-    <img src="../images/ParticipantsPictures_Shift.png" alt="ParticipantsPictures_Shift" width="100%"/>
+    <img src="../images/ParticipantsPictures_Shift.png" alt="ParticipantsPictures_Shift" width="90%"/>
 </p>
 
 　　‍
@@ -370,6 +370,7 @@ permalink: "/datasets/"
 
 　　Note: The experimental protocol for inter-day variations is the same as for the ideal condition, so no photos or videos were recorded for this condition.
 
+<br>
 <video controls="controls" src="../video/K2MUSE_Video.mp4" data-src=""></video>
 
 　　‍
