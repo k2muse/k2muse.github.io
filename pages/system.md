@@ -51,7 +51,7 @@ permalink: "/system/"
     </tr>
     <tr>
       <td>Maximum frame rate (fps) at partial scan</td>
-      <td>2,000 <a href="https://help.vicon.com/space/Vantage/15042553/V5+camera+specifications#V5cameraspecifications-IncFrameRates">[1]</a></td>
+      <td>2,000 <a href="https://help.vicon.com/space/Vantage/15042553/V5+camera+specifications#V5cameraspecifications-IncFrameRates">[2]</a></td>
     </tr>
     <tr>
       <td>Frame rates (fps)</td>
@@ -87,7 +87,7 @@ permalink: "/system/"
     </tr>
     <tr>
       <td>Shutter type</td>
-      <td>Global shutter <a href="https://help.vicon.com/space/Vantage/15042553/V5+camera+specifications#V5cameraspecifications-Shuttering">[2]</a></td>
+      <td>Global shutter <a href="https://help.vicon.com/space/Vantage/15042553/V5+camera+specifications#V5cameraspecifications-Shuttering">[3]</a></td>
     </tr>
     <tr>
       <td>Aspect ratio</td>
@@ -108,7 +108,7 @@ permalink: "/system/"
 　　All walking trials were conducted on a fully instrumented treadmill ([Bertec, Columbus, Ohio](https://www.bertec.com/)). The treadmill features two independently controllable belts, each equipped with a force plate underneath to capture six-component force data at 1000 Hz. The treadmill incline was configured via software, while its start/stop functions, speed were controlled by a custom MATLAB code.
 
 <p align="center">
-    <img src="../images/treadmill.png" alt="treadmill" width="100%"/>
+    <img src="../images/treadmill.png" alt="treadmill" width="50%"/>
 </p>
 <p style="text-align: center;">Bertec® Fully Instrumented Treadmill (download form [Bertec](https://www.bertec.com/))</p>
 　　
@@ -121,10 +121,10 @@ permalink: "/system/"
 
 
 <p align="center">
-    <img src="../images/NoraxonUltium.png" alt="NoraxonUltium" width="100%"/>
+    <img src="../images/NoraxonUltium.png" alt="NoraxonUltium" width="50%"/>
 </p>
-<p style="text-align: center;">Noraxon’s Ultium EMG sensor system (download from [Noraxon Ultium EMG](https://www.noraxon.com/our-products/ultium-emg/))</p>
-　　
+<p style="text-align: center;">Noraxon’s Ultium EMG sensor system (download from <a href="https://www.noraxon.com/our-products/ultium-emg/">Noraxon Ultium EMG</a>)</p>
+
 
 
 ## Amplitude Mode Ultrasound
@@ -133,7 +133,6 @@ permalink: "/system/"
 
 
 <p align="center">
-    <img src="../images/aus_device.png" alt="aus_device" width="100%"/>
+    <img src="../images/aus_device.png" alt="aus_device" width="50%"/>
 </p>
-<p style="text-align: center;">The four-channel amplitude mode ultrasound (AUS) device (download from [ELONXI](http://www.elonxi.cn/?list_17/74.html))</p>
-　　
+<p style="text-align: center;">The four-channel amplitude mode ultrasound (AUS) device (download from <a href="http://www.elonxi.cn/?list_17/74.html">ELONXI</a>)</p>
