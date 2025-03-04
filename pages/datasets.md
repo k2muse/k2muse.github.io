@@ -370,8 +370,8 @@ permalink: "/datasets/"
             <td>The number of walking trials: For the muscle fatigue experiments, it ranges from <u>1 to 10</u>, while for the other conditions, the trials range from <u>1 to 5</u>.</td>
         </tr>
         <tr>
-            <td rowspan="7">(Datatype)</td>
-            <td rowspan="7">=</td>
+            <td rowspan="8">(Datatype)</td>
+            <td rowspan="8">=</td>
             <td><u>Markers</u>: Position of markers in global coordinates (unit: m).</td>
         </tr>
         <tr>
@@ -393,8 +393,8 @@ permalink: "/datasets/"
             <td><u>USData</u>: AUS data segmented by left leg heel strikes, with dimensions of N*1, representing N gait cycles.</td>
         </tr>
         <tr>
-            <td><u>EMGData</u>: sEMG data segmented by bilateral heel strikes, divided into "Right" and "Left."</td>
-        </tr>
+            <td><u>EMGData</u>: sEMG data segmented by bilateral heel strikes, divided into "Right" and "Left"</td>
+        </tr>        
         <tr>
             <td rowspan="4">(Variable)</td>
             <td rowspan="4">=</td>
