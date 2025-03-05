@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Quick Use"
+title: "Data Usage"
 subheadline: "K2MUSE Dataset"
 teaser: "We have experimented with some methods on our dataset. And some tools and SDK are provided for using the dataset."
-permalink: "/quick_use/"
+permalink: "/usage/"
 header: no
 ---
 <div class="panel radius" markdown="1">
@@ -152,11 +152,11 @@ The specific introduction of this script is as follows:
 
 * Part2. Definition
 
-  * Step1. Define Path: 
+  * Step1. Define Path:
 
     Define the paths for data, results, H5 files, and image storage, and create the corresponding folders.
 
-  * Step2. Define Variables: 
+  * Step2. Define Variables:
 
     Define the variables needed in the data processing and model fitting processes.
 
@@ -168,11 +168,11 @@ The specific introduction of this script is as follows:
 
   Calculate the metrics for all participants and plot the mean and standard deviation of the corresponding metrics.
 
-  * Step1. Calculate Results: 
+  * Step1. Calculate Results:
 
     Calculate the average and standard deviation of the results for all participants.
 
-  * Step2. Fig: RMSE-Bar: 
+  * Step2. Fig: RMSE-Bar:
 
     This step creates a bar plot to visualize the RMSE (Root Mean Squared Error) of joint angles for different models and joints.
 

@@ -17,7 +17,7 @@ permalink: "/system/"
 
 ## Overview
 
-　　As shown in Figure 1, the collection process involved a variety of locomotion activities, specifically: walking on level ground; uphill walking on 5◦ and 10◦ ramps; and downhill walking on 5° and 10° ramps. In terms of walking speeds, three different speeds were set: 0.5 m/s, 1.0 m/s, and 1.5 m/s. Moreover, the data collection conditions encompassed multiple scenarios, including ideal condition, muscle fatigue, electrode shifts, and inter-day differences. The experimental scene shows a participant equipped with all the devices: a motion capture system, a treadmill with embedded force plates, an sEMG system, and an AUS device.
+　　As shown in Figure 1, the collection process involved a variety of locomotion activities, specifically: walking on level ground; uphill walking on 5° and 10° ramps; and downhill walking on 5° and 10° ramps. In terms of walking speeds, three different speeds were set: 0.5 m/s, 1.0 m/s, and 1.5 m/s. Moreover, the data collection conditions encompassed multiple scenarios, including ideal condition, muscle fatigue, electrode shifts, and inter-day differences. The experimental scene shows a participant equipped with all the devices: a motion capture system, a treadmill with embedded force plates, an sEMG system, and an AUS device.
 
 
 <p align="center">
@@ -99,9 +99,9 @@ permalink: "/system/"
 <p align="center">
     <img src="../images/ViconLock.png" alt="ViconLock" width="100%"/>
 </p>
-<p style="text-align: center;">Vicon Lock+ in a Vicon Vantage system (System details correct at time of publication, but may now be superseded. For up-to-date information, visit the [Vicon website](https://www.vicon.com/) and search for PC specification).</p>
+<p style="text-align: center;">Vicon Lock+ in a Vicon Vantage system (System details correct at time of publication, but may now be superseded. For up-to-date information, visit the <a href="https://www.vicon.com/"></a>Vicon website and search for PC specification).</p>
 
-　　
+
 
 ## Instrumented Treadmill
 
@@ -110,8 +110,8 @@ permalink: "/system/"
 <p align="center">
     <img src="../images/treadmill.png" alt="treadmill" width="50%"/>
 </p>
-<p style="text-align: center;">Bertec® Fully Instrumented Treadmill (download form [Bertec](https://www.bertec.com/))</p>
-　　
+<p style="text-align: center;">Bertec® Fully Instrumented Treadmill (download form <a href="https://www.bertec.com/"></a>Bertec)</p>
+
 
 　　‍
 
