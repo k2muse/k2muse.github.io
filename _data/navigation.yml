@@ -14,7 +14,7 @@
   - title: "Overview"
     url: "/system/index#overview"
   - title: "Motion Capture System"
-    url: "/system/index#motion-Capture-System"
+    url: "/system/index#motion-capture-system"
   - title: "Instrumented Treadmill"
     url: "/system/index#instrumented-treadmill"
   - title: "Surface Electromyography"
@@ -27,18 +27,18 @@
   url: "/usage/"
   side: left
   dropdown:
-  - title: "Overview"
-    url: "/usage/index#Environment"
+  - title: "Environment"
+    url: "/usage/index#environment"
   - title: "Load & Segment"
-    url: "/usage/index#Load-&-Segment"
+    url: "/usage/index#load-&-segment"
   - title: "Plot Kinematics & Kinetics"
-    url: "/usage/index#Plot-kinematics-and-kinetics"
+    url: "/usage/index#plot-kinematics-and-kinetics"
   - title: "Evaluate the dataset"
-    url: "/usage/index#Evaluate-the-dataset"    
+    url: "/usage/index#evaluate-the-dataset"    
   - title: "Angle Regression"
-    url: "/usage/index#Angle-Regression"    
+    url: "/usage/index#angle-regression"    
   - title: "Know Issues"
-    url: "/usage/index#Know-Issues"    
+    url: "/usage/index#know-issues"    
 
 
 - title: Documentation
