@@ -28,13 +28,18 @@
   side: left
   dropdown:
   - title: "Overview"
-    url: "/usage/index#overview"
-  - title: "Load And Segment"
-    url: "/usage/index#load-and-segment"
-  - title: "Plot Kinematics"
-    url: "/usage/index#plot-kinematics"
+    url: "/usage/index#Environment"
+  - title: "Load & Segment"
+    url: "/usage/index#Load-&-Segment"
+  - title: "Plot Kinematics & Kinetics"
+    url: "/usage/index#Plot-kinematics-and-kinetics"
+  - title: "Evaluate the dataset"
+    url: "/usage/index#Evaluate-the-dataset"    
   - title: "Angle Regression"
-    url: "/usage/index#angle-regression"    
+    url: "/usage/index#Angle-Regression"    
+  - title: "Know Issues"
+    url: "/usage/index#Know-Issues"    
+
 
 - title: Documentation
   url: "/documentation/"
