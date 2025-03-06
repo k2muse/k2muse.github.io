@@ -6,7 +6,7 @@ title: "Datasets"
 #teaser: "History and changelog of Feeling Responsive Theme"
 
 header:
-   image_fullwidth: "DatasetStructure(full).png"
+   image_fullwidth: "dataset.png"
 breadcrumb: true
 
 permalink: "/datasets/"
