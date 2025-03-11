@@ -27,7 +27,7 @@ You can also open the \*.mat files by double-clicking them directly. Please note
 
 ## Load & Segment
 
-This script is used to read and parse raw data from SourceData. The loading of all modal data and gait normalization are processed through the MATLAB script “scriptProcess.mlx.”
+This script is used to read and parse raw data from SourceData. The loading of all modal data and gait normalization are processed through the MATLAB script “scriptProcess.mlx”.
 
 The parsing of “\*.c3d” files is achieved using the [Biomechanics ToolKit (BTK)](https://biomechanical-toolkit.github.io/docs/).
 
