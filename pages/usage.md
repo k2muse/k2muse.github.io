@@ -118,47 +118,11 @@ The specific introduction of this script is as follows:
     Plot the kinematics and dynamics of all participants under different ramps and speeds in the ideal condition experiment.
 
 
-
-## Evaluate the dataset
-The MATLAB script "scriptEvaluation.mlx" can: (1) Extract data and calculate weighted R² scores. (2) Compute the cross-correlation coefficient and Pearson correlation coefficient with the comparison dataset.
-
-The specific introduction of this script is as follows:
-
-* Readme:
-
-  User guide for this script
-* Clear All:
-
-  Initialize the working environment by clearing variables, closing windows, and other necessary tasks.
-* Part1. Variable Definition
-
-  Define the variables needed in the script.
-* Part2. Repeatability
-
-  * Step1. Extract/Load 'repeatData'
-
-    Extract or load the 'repeatData' variable for calculating the repeatability of angles and torques.
-  * Step2. Calculate Repeatability for All Participants
-
-    Calculate the repeatability of all participants under different walk modes.
-* Part3. Compare to Other Dataset
-
-  * Reznick E, Embry K R, Neuman R, et al. Lower-limb kinematics and kinetics during continuously varying human locomotion[J]. Scientific Data, 2021, 8(1): 282.
-
-    Compare with the dataset, including 5° and 10° ramp ascending/descending walking at 1 m/s, as well as level-ground walking at 1.0 m/s.
-  * Scherpereel K, Molinaro D, Inan O, et al. A human lower-limb biomechanics and wearable sensors dataset during cyclic and non-cyclic activities[J]. Scientific Data, 2023, 10(1): 924.
-
-    Compare with the dataset, including 5° and 10° ramp ascending/descending walking at 1 m/s, as well as level-ground walking at 1.2 m/s.
-
-
 ## Angle Regression
 
 * Readme:
-
   User guide for this code.
-
 * Part1. Import Module:
-
   Import the necessary libraries and custom modules for data processing, modeling, and plotting.
 
 * Part2. Definition
