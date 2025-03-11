@@ -5,6 +5,15 @@
 - title: Downloads
   url: "/datasets/"
   side: left
+  dropdown:
+  - title: "Download K2MUSE"
+    url: "/datasets/index#download-k2muse"
+  - title: "Data Organization"
+    url: "/datasets/index#data-organization"
+  - title: "Pictures of Participants"
+    url: "/datasets/index#pictures-of-participants"
+  - title: "Videos of Experiments"
+    url: "/datasets/index#videos-of-experiments"
 
 
 - title:  Acquisition System

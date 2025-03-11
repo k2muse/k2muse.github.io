@@ -109,9 +109,9 @@ The specific introduction of this script is as follows:
 
 * Part2. Figures In Manuscript
 
-  * Step1. Extract/Load 'figData':
+  * Step1. Load 'figData':
 
-    Extract data for all participants from "ViconProcessed", calculate the average, and save it to 'figData' for plotting figures.
+    Load 'figData.mat' from "FigureData" folder for plotting figures.
 
   * Step2. Figures: Ideal Condition:
 
@@ -121,8 +121,11 @@ The specific introduction of this script is as follows:
 ## Angle Regression
 
 * Readme:
+  
   User guide for this code.
+
 * Part1. Import Module:
+  
   Import the necessary libraries and custom modules for data processing, modeling, and plotting.
 
 * Part2. Definition

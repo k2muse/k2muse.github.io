@@ -116,7 +116,7 @@ permalink: "/datasets/"
         <tr>
             <td>(AmbulationMode)</td>
             <td>=</td>
-            <td>Different ramps and angles, represented as "Terrain\_Angle," including <u>AS_5</u>, <u>AS_10</u>, <u>DS_5</u>, <u>DS_10</u>, and <u>LG_0</u></td>
+            <td>Different ramps and angles, represented as "Terrain_Angle," including <u>AS_5</u>, <u>AS_10</u>, <u>DS_5</u>, <u>DS_10</u>, and <u>LG_0</u></td>
         </tr>
         <tr>
             <td>(US)</td>
@@ -342,6 +342,11 @@ permalink: "/datasets/"
         </tr>
     </tbody>
 </table>
+
+### Figure Data
+
+    The "figData.mat" file in the folder is used by the "scriptPlot.mlx" script to plot the average joint angles and joint moments for all participants.
+
 
 
 ## Pictures of Participants
