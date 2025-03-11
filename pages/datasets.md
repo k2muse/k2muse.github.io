@@ -345,7 +345,7 @@ permalink: "/datasets/"
 
 ### Figure Data
 
-    The "figData.mat" file in the folder is used by the "scriptPlot.mlx" script to plot the average joint angles and joint moments for all participants.
+　　The "figData.mat" file in the folder is used by the "scriptPlot.mlx" script to plot the average joint angles and joint moments for all participants.
 
 
 
