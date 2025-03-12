@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Data Usage"
 subheadline: "K2MUSE Dataset"
-teaser: "We have experimented with some methods on our dataset. And some tools and SDK are provided for using the dataset."
+teaser: "We have experimented with several machine learning models on the dataset and provided scripts and code for utilizing the dataset."
 permalink: "/usage/"
 header: no
 ---
@@ -12,6 +12,8 @@ header: no
 *  TOC
 {:toc}
 </div>
+
+
 
 ## Environment
 
