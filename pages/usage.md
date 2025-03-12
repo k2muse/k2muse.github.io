@@ -17,7 +17,15 @@ header: no
 
 ## Environment
 
-For MATLAB scripts, we use MATLAB version 2022b; for Python code, we use Python version 3.8.19.
+Installation and Configuration Requirements:  
+* [Biomechanics ToolKit (BTK)](https://biomechanical-toolkit.github.io/docs/): Required for parsing "*.c3d" files in MATLAB.
+* [Jupyter Notebook](https://jupyter.org/): Needed to open and run "*.ipynb" scripts.
+* [MATLAB 2022b](https://www.mathworks.com/products/matlab.html): Used for data visualization and processing.
+* [Python](https://www.python.org/): Required for running Python-based scripts and models.
+
+For MATLAB scripts, we use MATLAB (version 2022b).
+
+For Python scripts, we use Visual Studio Vode (version 1.98.1).
 
 The processed file is of *.mat format and can be opened using MATLAB (version 2022b, MathWorks, Natick, MA, USA).
 
@@ -31,7 +39,7 @@ You can also open the \*.mat files by double-clicking them directly. Please note
 
 This script is used to read and parse raw data from SourceData. The loading of all modal data and gait normalization are processed through the MATLAB script “scriptProcess.mlx”.
 
-The parsing of “\*.c3d” files is achieved using the [Biomechanics ToolKit (BTK)](https://biomechanical-toolkit.github.io/docs/).
+The parsing of "\*.c3d" files is achieved using the [Biomechanics ToolKit (BTK)](https://biomechanical-toolkit.github.io/docs/).
 
 The specific introduction of this script is as follows:
 
