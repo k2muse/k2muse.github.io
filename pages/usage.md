@@ -21,7 +21,7 @@ Installation and Configuration Requirements:
 * [Biomechanics ToolKit (BTK)](https://biomechanical-toolkit.github.io/docs/): Required for parsing "*.c3d" files in MATLAB.
 * [Jupyter Notebook](https://jupyter.org/): Needed to open and run "*.ipynb" scripts.
 * [MATLAB 2022b](https://www.mathworks.com/products/matlab.html): Used for data visualization and processing.
-* [Python](https://www.python.org/): Required for running Python-based scripts and models.
+* [Python 3.8](https://www.python.org/): Required for running Python-based scripts and models.
 
 For MATLAB scripts, we use MATLAB (version 2022b).
 
