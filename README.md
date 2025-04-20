@@ -23,7 +23,7 @@ If you use some resource from this dataset, please cite it as
 @article{
 }
 ```
-[[Preprint](https://arxiv.org/pdf/2304.01986)]
+[[Preprint](https://arxiv.org)]
 
 # Downloads
 
@@ -40,4 +40,4 @@ If you want to work with the dataset, please check out [DATA USAGE](https://k2mu
 
 # Licence
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and is intended for non-commercial academic use.
-If you are interested in using the dataset for commercial purposes please [contact us](zimingwang@connect.hku.hk).
+If you are interested in using the dataset for commercial purposes please [contact us](https://k2muse.github.io/contact/).
