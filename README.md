@@ -20,14 +20,11 @@ The dataset includes lower-limb multimodal data from 30 able-bodied participants
 If you use some resource from this dataset, please cite it as
 
 ```
-@misc{li2025k2musehumanlowerlimb,
-      title={K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics}, 
-      author={Jiwei Li and Bi Zhang and Xiaowei Tan and Wanxin Chen and Zhaoyuan Liu and Juanjuan Zhang and Weiguang Huo and Jian Huang and Lianqing Liu and Xingang Zhao},
-      year={2025},
-      eprint={2504.14602},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2504.14602}, 
+@article{li2025k2muse,
+  title={K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics},
+  author={Li, Jiwei and Zhang, Bi and Tan, Xiaowei and Chen, Wanxin and Liu, Zhaoyuan and Zhang, Juanjuan and Huo, Weiguang and Huang, Jian and Liu, Lianqing and Zhao, Xingang},
+  journal={arXiv preprint arXiv:2504.14602},
+  year={2025}
 }
 ```
 [[Preprint](https://arxiv.org/abs/2504.14602)]
