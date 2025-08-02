@@ -168,7 +168,7 @@ The specific introduction of this script is as follows:
 
 
 
-## Know Issues
+## Known Issues
 
 * The Nexus software detected incorrect gait events for some experiments. These errors were manually corrected using the [open-source software Mokka](https://biomechanical-toolkit.github.io/mokka/index.html).
 * Some trials from certain participants contained defective data due to an investigator error, which was later re-collected.
