@@ -396,10 +396,10 @@ permalink: "/datasets/"
 　　Note: The experimental protocol for inter-day variations is the same as for the ideal condition, so no photos or videos were recorded for this condition.
 
 <br>
-<video controls style="display:block; margin:0 auto;">
-  <source src="/video/K2MUSE_Video.mp4" type="video/mp4">
+<video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
+  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/Video_Assistance/K2MUSE_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
 
 
 ### Exoskeleton Assistance Experiment
