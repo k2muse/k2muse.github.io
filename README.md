@@ -13,7 +13,7 @@ This site presents the K2MUSE Dataset, collected from our biomechanics laborator
 * Amplitude Mode Ultrasound ([ELONXI, China](http://www.elonxi.cn)) 
 
 
-The dataset includes lower-limb multimodal data from 30 able-bodied participants walking under different inclines (0°, ±5°, ±10°), various speeds (0.5 m/s, 1.0 m/s, and 1.5 m/s), and different non-ideal acquisition conditions. The kinematic and ground reaction force data were collected using a Vicon motion capture system and an instrumented treadmill with embedded force plates, while sEMG and AUS data were synchronously recorded for thirteen muscles on bilateral lower limbs. This dataset offers a new resource for designing control frameworks for rehabilitation robots and conducting biomechanical analysis of lower-limb locomotion.
+The dataset includes lower-limb multimodal data from 30 healthy young adults and 12 older adults walking under different inclines (0°, ±5°, ±10°), various speeds (0.5 m/s, 1.0 m/s, and 1.5 m/s), and different non-ideal acquisition conditions. The kinematic and ground reaction force data were collected using a Vicon motion capture system and an instrumented treadmill with embedded force plates, while sEMG and AUS data were synchronously recorded for thirteen muscles on bilateral lower limbs. This dataset offers a new resource for designing control frameworks for rehabilitation robots and conducting biomechanical analysis of lower-limb locomotion.
 
 
 # Citation
