@@ -378,13 +378,13 @@ permalink: "/datasets/"
 
 ### Older Adults
 
-    The following are the frontal-view images of 12 older subjects in the ideal conditions experiments (0.5 m/s, 1.0 m/s):
+　　The following are the frontal-view images of 12 older subjects in the ideal conditions experiments (0.5 m/s, 1.0 m/s):
 
 <p align="center">
     <img src="../images/ParticipantsPictures_Older.png" alt="ParticipantsPictures_Older" width="90%"/>
 </p>
 
-    Note: The photo of participant P31 was not taken, so one image is missing from the set above.
+　　Note: The photo of participant P31 was not taken, so one image is missing from the set above.
 
 
 ## Videos of Experiments
@@ -396,18 +396,19 @@ permalink: "/datasets/"
 　　Note: The experimental protocol for inter-day variations is the same as for the ideal condition, so no photos or videos were recorded for this condition.
 
 <br>
-<video controls="controls" src="../video/K2MUSE_Video.mp4" data-src=""></video>
-
-　　‍
-### Exoskeleton Assistance Experiment
-
-    The following videos show participants completing three assistance tasks: treadmill assistance, complex-terrain assistance, and outdoor overground assistance.
-
-<br>
-<video controls="controls" src="../video/AssistanceSummary.mp4"
-       style="display:block; margin:0 auto;">
-       <source src="https://github.com/k2muse/k2muse.github.io/releases/download/Video_Assistance/AssistanceSummary.mp4" type="video/mp4">
-       data-src="">
+<video controls style="display:block; margin:0 auto;">
+  <source src="/video/AssistanceSummary.mp4" type="video/mp4">
 </video>
 
+
+
+### Exoskeleton Assistance Experiment
+
+　　The following videos show participants completing three assistance tasks: treadmill assistance, complex-terrain assistance, and outdoor overground assistance.
+
+<br>
+<video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
+  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/Video_Assistance/AssistanceSummary.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
