@@ -351,9 +351,9 @@ permalink: "/datasets/"
 
 ## Pictures of Participants
 
-### Ideal Conditions & Muscle Fatigue
+### Ideal Conditions & Progressive Muscle Fatigue
 
-　　The following are the frontal views of 30 subjects in the ideal conditions and muscle fatigue experiments:
+　　The following are the frontal-view images of 30 healthy subjects in the ideal conditions and progressive muscle fatigue experiments:
 
 <p align="center">
     <img src="../images/ParticipantsPictures.png" alt="ParticipantsPictures" width="90%"/>
@@ -362,15 +362,34 @@ permalink: "/datasets/"
 
 ### Electrode Shifts
 
-　　The following are the frontal views of 8 participants in the electrode shifts experiment. From left to right, each column corresponds to the following shift directions: ShiftInitial, ShiftUpward, ShiftDownward, ShiftLeftward, and ShiftRightward.
+　　The following are the frontal-view images of the eight participants in the two-dimensional in-plane shift experiment. From left to right, each column corresponds to the following shift directions: ShiftInitial, ShiftUpward, ShiftDownward, ShiftLeftward, and ShiftRightward.
 
 <p align="center">
-    <img src="../images/ParticipantsPictures_Shift.png" alt="ParticipantsPictures_Shift" width="90%"/>
+    <img src="../images/ParticipantsPictures_Shift_2D.png" alt="ParticipantsPictures_Shift_2D" width="90%"/>
 </p>
 
-　　‍
+
+　　The following images show the frontal views of the eight participants in the depth-direction shift experiment. The top and bottom rows correspond to the conditions without strap-applied pressure (superficial) and with strap-applied pressure (compressed), respectively.
+
+<p align="center">
+    <img src="../images/ParticipantsPictures_Shift_Depth.png" alt="ParticipantsPictures_Shift_Depth" width="90%"/>
+</p>
+
+
+### Older Adults
+
+    The following are the frontal-view images of 12 older subjects in the ideal conditions experiments (0.5 m/s, 1.0 m/s):
+
+<p align="center">
+    <img src="../images/ParticipantsPictures_Older.png" alt="ParticipantsPictures_Older" width="90%"/>
+</p>
+
+    Note: The photo of participant P31 was not taken, so one image is missing from the set above.
+
 
 ## Videos of Experiments
+
+### Data Acquisition Protocol
 
 　　The following are videos of participants completing the ideal conditions and muscle fatigue experiments.
 
@@ -380,5 +399,13 @@ permalink: "/datasets/"
 <video controls="controls" src="../video/K2MUSE_Video.mp4" data-src=""></video>
 
 　　‍
+### Exoskeleton Assistance Experiment
 
+    The following videos show participants completing three assistance tasks: treadmill assistance, complex-terrain assistance, and outdoor overground assistance.
+
+<br>
+<video controls="controls" src="../video/AssistanceSummary.mp4"
+       style="display:block; margin:0 auto;">
+       data-src="">
+</video>
 
