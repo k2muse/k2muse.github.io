@@ -128,7 +128,7 @@ The specific introduction of this script is as follows:
     Plot the kinematics and dynamics of all participants under different ramps and speeds in the ideal condition experiment.
 
 
-## Angle Regression
+## Joint Angle Regression
 
 * Readme:
   
@@ -164,9 +164,13 @@ The specific introduction of this script is as follows:
 
     This step creates a bar plot to visualize the RMSE (Root Mean Squared Error) of joint angles for different models and joints.
 
+## Gait Phase Classification
 
 
-## End-to-end Control
+
+
+
+## End-to-End Control
 
 
 

@@ -392,15 +392,21 @@ permalink: "/datasets/"
 ### Data Acquisition Protocol
 
 　　The following are videos of participants completing the ideal conditions and muscle fatigue experiments.
-
 　　Note: The experimental protocol for inter-day variations is the same as for the ideal condition, so no photos or videos were recorded for this condition.
 
 <br>
 <video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
-  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/Video_Assistance/K2MUSE_Video.mp4" type="video/mp4">
+  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/K2MUSE_Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+　　The following videos show participants completing the sustained fatigue experiment. In addition to the multimodal data included in K2MUSE, we collected additional measurements during the sustained-fatigue protocol to assess physiological validity.
+
+<br>
+<video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
+  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/Fatigue_AS_10.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Exoskeleton Assistance Experiment
 
@@ -408,7 +414,7 @@ permalink: "/datasets/"
 
 <br>
 <video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
-  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/Video_Assistance/AssistanceSummary.mp4" type="video/mp4">
+  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/AssistanceSummary.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
