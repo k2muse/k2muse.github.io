@@ -406,6 +406,8 @@ permalink: "/datasets/"
 <br>
 <video controls="controls" src="../video/AssistanceSummary.mp4"
        style="display:block; margin:0 auto;">
+       <source src="https://github.com/k2muse/k2muse.github.io/releases/download/Video_Assistance/AssistanceSummary.mp4" type="video/mp4">
        data-src="">
 </video>
+
 
