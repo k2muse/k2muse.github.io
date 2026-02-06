@@ -134,7 +134,7 @@ The specific introduction of this script is as follows:
   
   User guide for this code.
 
-* Part1. Import Module:
+* Part1. Import Module
   
   Import the necessary libraries and custom modules for data processing, modeling, and plotting.
 

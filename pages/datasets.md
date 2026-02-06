@@ -392,6 +392,7 @@ permalink: "/datasets/"
 ### Data Acquisition Protocol
 
 　　The following are videos of participants completing the ideal conditions and muscle fatigue experiments.
+　　<br>
 　　Note: The experimental protocol for inter-day variations is the same as for the ideal condition, so no photos or videos were recorded for this condition.
 
 <br>
