@@ -219,6 +219,37 @@ The specific introduction of this script is as follows:
 </p>
 <p style="text-align: center;">Overview of (a) the soft exoskeleton, (b) wearable suit, (c) modular assistance conﬁ gurations, and (d) bidirectional pulley actuator.</p>
 
+<p>
+  Following Molina-Lozano et al. (2024a),
+  we adopted an end-to-end control framework in which a deep learning model estimates the wearer’s hip joint moment online
+  using only the real-time hip joint angle.
+  The estimated moment is used directly as the control command to provide natural assistance during walking.
+</p>
+
+<p>
+  Specifically, we trained a temporal convolutional network (TCN) using kinematic and kinetic measurements collected from multiple ambulation tasks
+  in the K2MUSE dataset.
+  The trained model was then deployed on an embedded processor (Jetson Orin NX, NVIDIA) for online inference.
+  The hip joint angle was measured by an encoder in real time and provided as input to the network.
+  To reduce inference latency, the pretrained model was converted into a TensorRT engine for deployment.
+</p>
+
+<p>
+  Because this section is intended as a reproducible demonstration, we did not perform extensive hyperparameter optimization for K2MUSE.
+  During training, we used five-fold cross-validation for each subject and each walking mode based on the five recorded trials,
+  and we selected the model with the best test performance as the final model for that mode.
+  The best models across all modes were then deployed for TensorRT-based inference,
+  and their outputs were averaged to obtain the desired instantaneous joint moment estimate.
+</p>
+
+<p>
+  The estimated joint moment was subsequently scaled, temporally adjusted, and filtered,
+  and it was mapped to the assistive input force profile of the soft exoskeleton.
+  At the low-level control layer, an admittance controller combined with a PD controller generated motor velocity commands to deliver the assistance.
+  <sup><a href="#ref-molinaro2024" id="cite-molinaro2024">[1]</a></sup>
+</p>
+
+
 
 
 
@@ -236,5 +267,14 @@ The specific introduction of this script is as follows:
     Zhang B, Jiang W, Tan X, et al. <i>Modular Soft Exoskeleton Design and Control for Assisting Movements in Multiple Lower Limb Joint Configurations</i>.
     IEEE Transactions on Automation Science and Engineering, 2025.
     <a href="#cite-zhang2025" aria-label="Back to citation">↩</a>
+  </li>
+</ol>
+<h3>References</h3>
+<ol>
+  <li id="ref-molinaro2024">
+    Molinaro D D, Kang I, Young A J.
+    <i>Estimating human joint moments unifies exoskeleton control, reducing user effort</i>.
+    Science Robotics, 2024, 9(88): eadi8852.
+    <a href="#cite-molinaro2024" aria-label="Back to citation">↩</a>
   </li>
 </ol>
