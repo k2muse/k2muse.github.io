@@ -166,11 +166,58 @@ The specific introduction of this script is as follows:
 
 ## Gait Phase Classification
 
+* Readme:
+  
+  User guide for this code.
 
+* Part1. Import Module
+  
+  Import the necessary libraries and custom modules for data processing, modeling, and plotting.
+
+* Part2. Definition
+
+  * Step1. Define Path:
+
+    Define the paths for data, results, H5 files, and image storage, and create the corresponding folders.
+
+  * Step2. Define Variables:
+
+    Define the variables needed in the data processing and model fitting processes.
+
+* Part3. ML Model
+
+  Process the data, including loading, preprocessing, feature extraction, etc., and train and evaluate different machine learning models to predict joint angles.
+
+* Part4. Analysis Results
+
+  Calculate the metrics for all participants and plot the mean and standard deviation of the corresponding metrics.
+
+  * Step1. Calculate Results:
+
+    Calculate the average and standard deviation of the results for all participants.
+
+  * Step2. Fig: Accuracy-Bar:
+
+    This step creates a bar plot to visualize the classification accuracy of gait phases for different models.
 
 
 
 ## End-to-End Control
+
+<p>
+  To validate the usability of the proposed K2MUSE dataset for robotic control, we conducted assistive experiments
+  using a soft exoskeleton previously developed by our team
+  <sup><a href="#ref-zhang2025" id="cite-zhang2025">[1]</a></sup>.
+  All experiments implemented hip-joint assistance, serving as a control example to demonstrate the effectiveness
+  and practical applicability of K2MUSE in control-oriented scenarios. In addition, the exoskeleton platform was equipped
+  with extended Bowden cables and self-locking casters, enabling convenient mobility while maintaining stability when needed,
+  thereby supporting assistive experiments in outdoor environments. An overview of the proposed soft exoskeleton is shown below.
+</p>
+
+<p align="center">
+    <img src="../images/softExoskeleton.png" alt="laboratory_scene_full" width="100%"/>
+</p>
+<p style="text-align: center;">Overview of (a) the soft exoskeleton, (b) wearable suit, (c) modular assistance conﬁ gurations, and (d) bidirectional pulley actuator.</p>
 
 
 
@@ -183,3 +230,11 @@ The specific introduction of this script is as follows:
 
 
 
+<h3>References</h3>
+<ol>
+  <li id="ref-zhang2025">
+    Zhang B, Jiang W, Tan X, et al. <i>Modular Soft Exoskeleton Design and Control for Assisting Movements in Multiple Lower Limb Joint Configurations</i>.
+    IEEE Transactions on Automation Science and Engineering, 2025.
+    <a href="#cite-zhang2025" aria-label="Back to citation">↩</a>
+  </li>
+</ol>
