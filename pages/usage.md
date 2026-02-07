@@ -220,7 +220,8 @@ The specific introduction of this script is as follows:
 <p style="text-align: center;">Overview of (a) the soft exoskeleton, (b) wearable suit, (c) modular assistance conﬁ gurations, and (d) bidirectional pulley actuator.</p>
 
 <p>
-  Following Molina-Lozano et al. (2024a),
+  Following Molina-Lozano et al. (2024a)
+  <sup><a href="#ref-molinaro2024" id="cite-molinaro2024">[1]</a></sup>,
   we adopted an end-to-end control framework in which a deep learning model estimates the wearer’s hip joint moment online
   using only the real-time hip joint angle.
   The estimated moment is used directly as the control command to provide natural assistance during walking.
@@ -246,7 +247,6 @@ The specific introduction of this script is as follows:
   The estimated joint moment was subsequently scaled, temporally adjusted, and filtered,
   and it was mapped to the assistive input force profile of the soft exoskeleton.
   At the low-level control layer, an admittance controller combined with a PD controller generated motor velocity commands to deliver the assistance.
-  <sup><a href="#ref-molinaro2024" id="cite-molinaro2024">[1]</a></sup>
 </p>
 
 
@@ -268,10 +268,7 @@ The specific introduction of this script is as follows:
     IEEE Transactions on Automation Science and Engineering, 2025.
     <a href="#cite-zhang2025" aria-label="Back to citation">↩</a>
   </li>
-</ol>
-<h3>References</h3>
-<ol>
-  <li id="ref-molinaro2024">
+s  <li id="ref-molinaro2024">
     Molinaro D D, Kang I, Young A J.
     <i>Estimating human joint moments unifies exoskeleton control, reducing user effort</i>.
     Science Robotics, 2024, 9(88): eadi8852.
