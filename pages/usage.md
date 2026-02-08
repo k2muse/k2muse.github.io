@@ -236,17 +236,14 @@ The specific introduction of this script is as follows:
 </p>
 
 <p>
-  Because this section is intended as a reproducible demonstration, we did not perform extensive hyperparameter optimization for K2MUSE.
-  During training, we used five-fold cross-validation for each subject and each walking mode based on the five recorded trials,
-  and we selected the model with the best test performance as the final model for that mode.
-  The best models across all modes were then deployed for TensorRT-based inference,
-  and their outputs were averaged to obtain the desired instantaneous joint moment estimate.
+  Because our goal is to provide a reproducible demo, we did not perform extensive hyperparameter optimization during training on K2MUSE. For each subject and each walking mode, we conducted 5-fold cross-validation using the five recorded trials, and we selected the model with the best test performance as the final model for that mode. We then deployed the best models across all modes as TensorRT engines for inference, and we averaged their outputs to obtain the instantaneous joint moment estimate used for that subject.
 </p>
 
 <p>
   The estimated joint moment was subsequently scaled, temporally adjusted, and filtered,
   and it was mapped to the assistive input force profile of the soft exoskeleton.
-  At the low-level control layer, an admittance controller combined with a PD controller generated motor velocity commands to deliver the assistance.
+  At the low-level control layer, an admittance controller combined with a PD controller generated motor velocity commands to deliver the assistance, consistent with our previous work
+  <sup><a href="#ref-zhang2025" id="cite-zhang2025">[1]</a></sup>.
 </p>
 
 
