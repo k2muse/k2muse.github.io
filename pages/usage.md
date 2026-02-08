@@ -267,7 +267,7 @@ The specific introduction of this script is as follows:
 
   * Step2. Batched Inference and Metrics:
 
-   Perform batched PyTorch inference, aggregate predictions, and compute evaluation metrics (e.g., RMSE and R²) and optional plots.
+    Perform batched PyTorch inference, aggregate predictions, and compute evaluation metrics (e.g., RMSE and R²) and optional plots.
 
 * Part6. Inference by TensorRT
 
@@ -275,11 +275,11 @@ The specific introduction of this script is as follows:
 
   * Step1. Load TensorRT Engine and Allocate Buffers:
 
-   Load the .trt engine, create the execution context, and allocate host/device buffers for inputs/outputs.
+    Load the .trt engine, create the execution context, and allocate host/device buffers for inputs/outputs.
 
   * Step2. Run TensorRT Inference and Compare:
   
-   Execute TensorRT inference batch-by-batch, compute RMSE/R², measure inference latency, and compare performance against PyTorch.
+    Execute TensorRT inference batch-by-batch, compute RMSE/R², measure inference latency, and compare performance against PyTorch.
 
 
 

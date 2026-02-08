@@ -17,5 +17,9 @@ I received the B.S. degree in New Energy Science and Engineering from Hebei Univ
 
 ### Contact me:
 <td width="750" align="left" valign="middle" class="rightone">
-    <li>Email: <a href="mailto:&#119;&#109;&#049;&#051;&#048;&#051;&#057;&#050;&#055;&#056;&#056;&#054;&#054;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#115;&#116;&#099;&#046;&#101;&#100;&#117;&#046;&#099;&#110;">lijiwei@sia.cn; ljw19961016@gmail.com</a></li>
+  <li>Email:
+    <a href="mailto:lijiwei@sia.cn">lijiwei@sia.cn</a>;
+    <a href="mailto:ljw19961016@gmail.com">ljw19961016@gmail.com</a>
+  </li>
 </td>
+
