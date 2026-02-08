@@ -11,7 +11,9 @@ header              : no
 
 <img src="../images/Author.jpg" width="15%" ><br>
 
-<font size="4">I received a B.S. degree in New Energy Science and Engineering from Hebei University of Technology, Tianjin, China, in 2018. I am currently working toward a Ph.D. degree in pattern recognition and intelligent systems at the State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China. My research interests include biological signal processing, pattern recognition, and human-machine interaction.</font>
+<font size="4">
+I received the B.S. degree in New Energy Science and Engineering from Hebei University of Technology, Tianjin, China, in 2018, and the Ph.D. degree in pattern recognition and intelligent systems from the State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China. My research interests include biological signal processing, pattern recognition, and human–machine interaction.
+</font>
 
 ### Contact me:
 <td width="750" align="left" valign="middle" class="rightone">
