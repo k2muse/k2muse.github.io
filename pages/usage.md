@@ -131,7 +131,11 @@ The specific introduction of this script is as follows:
 ## Joint Angle Regression
 
 <p>
-The script described below is available in the Kaggle-Data Card: [Code/PythonProcess/demoRegression.ipynb](https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6)
+  The script described below is available in the Kaggle-Data Card:
+  <a href="https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6"
+     target="_blank" rel="noopener noreferrer">
+    Code/PythonProcess/demoRegression.ipynb
+  </a>
 </p>
 
 
@@ -172,7 +176,11 @@ The script described below is available in the Kaggle-Data Card: [Code/PythonPro
 ## Gait Phase Classification
 
 <p>
-The script described below is available in the Kaggle-Data Card: [Code/PythonProcess/demoClassification.ipynb](https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6)
+  The script described below is available in the Kaggle-Data Card:
+  <a href="https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6"
+     target="_blank" rel="noopener noreferrer">
+    Code/PythonProcess/demoClassification.ipynb
+  </a>
 </p>
 
 
@@ -215,7 +223,11 @@ The script described below is available in the Kaggle-Data Card: [Code/PythonPro
 ## End-to-End Control
 
 <p>
-The script described below is available in the Kaggle-Data Card: [Code/control-demo/demo.ipynb](https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6)
+  The script described below is available in the Kaggle-Data Card:
+  <a href="https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6"
+     target="_blank" rel="noopener noreferrer">
+    Code/control-demo/demo.ipynb
+  </a>
 </p>
 
 
@@ -272,6 +284,7 @@ The script described below is available in the Kaggle-Data Card: [Code/control-d
 
 
 <hr style="border:0; border-top:1px solid #ccc; margin: 16px 0;">
+
 
 
 <p>
