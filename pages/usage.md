@@ -269,7 +269,10 @@ The script described below is available in the Kaggle-Data Card: [Code/control-d
   
    Execute TensorRT inference batch-by-batch, compute RMSE/R², measure inference latency, and compare performance against PyTorch.
 
-<hr>
+
+
+<hr style="border:0; border-top:1px solid #ccc; margin: 16px 0;">
+
 
 <p>
   To validate the usability of the proposed K2MUSE dataset for robotic control, we conducted assistive experiments
