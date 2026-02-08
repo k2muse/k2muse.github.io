@@ -285,7 +285,9 @@ The specific introduction of this script is as follows:
 
 <hr style="border:0; border-top:1px solid #ccc; margin: 16px 0;">
 
-
+<p>
+**The following text provides a detailed description of the end-to-end control framework.**
+</p>
 
 <p>
   To validate the usability of the proposed K2MUSE dataset for robotic control, we conducted assistive experiments
