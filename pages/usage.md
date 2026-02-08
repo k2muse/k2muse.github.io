@@ -221,7 +221,7 @@ The specific introduction of this script is as follows:
 
 <p>
   Following Molina-Lozano et al. (2024a)
-  <sup><a href="#ref-molinaro2024" id="cite-molinaro2024">[1]</a></sup>,
+  <sup><a href="#ref-molinaro2024" id="cite-molinaro2024">[2]</a></sup>,
   we adopted an end-to-end control framework in which a deep learning model estimates the wearer’s hip joint moment online
   using only the real-time hip joint angle.
   The estimated moment is used directly as the control command to provide natural assistance during walking.
