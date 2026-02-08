@@ -130,7 +130,12 @@ The specific introduction of this script is as follows:
 
 ## Joint Angle Regression
 
-* Readme:
+<p>
+The script described below is available in the Kaggle-Data Card: [Code/PythonProcess/demoRegression.ipynb](https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6)
+</p>
+
+
+* Readme
   
   User guide for this code.
 
@@ -166,7 +171,12 @@ The specific introduction of this script is as follows:
 
 ## Gait Phase Classification
 
-* Readme:
+<p>
+The script described below is available in the Kaggle-Data Card: [Code/PythonProcess/demoClassification.ipynb](https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6)
+</p>
+
+
+* Readme
   
   User guide for this code.
 
@@ -203,6 +213,63 @@ The specific introduction of this script is as follows:
 
 
 ## End-to-End Control
+
+<p>
+The script described below is available in the Kaggle-Data Card: [Code/control-demo/demo.ipynb](https://kaggle.com/datasets/98d67c253a7c820668aed0690cae20343481b8f8f8e0dafbe93b0c76d91f0ce6)
+</p>
+
+
+* Readme
+  
+  User guide for this notebook. It explains the end-to-end workflow of the control demo, including data loading, model selection, export to ONNX, conversion to TensorRT, and inference/metric reporting.
+
+* Part1. Import Module
+  
+  Import required libraries and custom modules for model definition (TCN), data loading (H5), evaluation metrics, and deployment utilities (ONNX/TensorRT).
+
+* Part2. Arguments / Configuration
+  
+  Define and override runtime arguments used throughout the demo, such as device type (CPU/CUDA), sequence/window length, batch size, input/output definitions (e.g., hip angle → hip moment), and paths to data/models/export folders.
+
+* Part3. Data Utilities
+  
+  Provide helper functions for this demo, including creating output folders, reading trial-level HDF5 files, converting continuous time series into fixed-length windows for TCN inference, and constructing batched DataLoaders for evaluation.
+
+* Part4. Convert Selected Models (PyTorch → ONNX → TensorRT)
+  
+  Convert pretrained PyTorch checkpoints into deployment artifacts to reduce inference latency on embedded hardware.
+  
+  * Step1. Select Models and Define Export Paths:
+    Specify which pretrained models (e.g., per speed/mode) will be used, and define output folders for onnx/, onnx_sim/, and trt/ artifacts.
+
+  * Step2. Export ONNX and Build TensorRT Engines:
+    Export each model to ONNX, optionally simplify the ONNX graph, and build a TensorRT engine for efficient runtime inference.
+
+* Part5. Inference by Torch
+
+  Run baseline inference using the PyTorch model on a selected trial to verify correctness and establish a reference for accuracy and latency.
+
+  * Step1. Load Trial Data and Windowing:
+
+    Load hip angle (input) and hip moment (label) from H5, then slice the sequence into fixed-length windows aligned with the model’s expected input shape.
+
+  * Step2. Batched Inference and Metrics:
+
+   Perform batched PyTorch inference, aggregate predictions, and compute evaluation metrics (e.g., RMSE and R²) and optional plots.
+
+* Part6. Inference by TensorRT
+
+  Run accelerated inference using TensorRT engines and compare results with the PyTorch baseline.
+
+  * Step1. Load TensorRT Engine and Allocate Buffers:
+
+   Load the .trt engine, create the execution context, and allocate host/device buffers for inputs/outputs.
+
+  * Step2. Run TensorRT Inference and Compare:
+  
+   Execute TensorRT inference batch-by-batch, compute RMSE/R², measure inference latency, and compare performance against PyTorch.
+
+<hr>
 
 <p>
   To validate the usability of the proposed K2MUSE dataset for robotic control, we conducted assistive experiments
