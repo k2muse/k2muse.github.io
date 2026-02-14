@@ -410,6 +410,13 @@ permalink: "/datasets/"
   Your browser does not support the video tag.
 </video>
 
+　　The following videos show older adult participants performing the ideal-condition trials at 0.5 m/s and 1.5 m/s.
+<br>
+<video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
+  <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/K2MUSE_Video_older.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Exoskeleton Assistance Experiment
 
 　　The following videos show participants completing three assistance tasks: treadmill assistance, complex-terrain assistance, and outdoor overground assistance.
