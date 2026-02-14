@@ -395,7 +395,6 @@ permalink: "/datasets/"
 　　The following are videos of participants completing the ideal conditions and muscle fatigue experiments.
 　　<br>
 　　Note: The experimental protocol for inter-day variations is the same as for the ideal condition, so no photos or videos were recorded for this condition.
-
 <br>
 <video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
   <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/K2MUSE_Video.mp4" type="video/mp4">
@@ -403,7 +402,6 @@ permalink: "/datasets/"
 </video>
 
 　　The following videos show participants completing the sustained fatigue experiment. In addition to the multimodal data included in K2MUSE, we collected additional measurements during the sustained-fatigue protocol to assess physiological validity.
-
 <br>
 <video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
   <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/Fatigue_AS_10.mp4" type="video/mp4">
@@ -420,7 +418,6 @@ permalink: "/datasets/"
 ### Exoskeleton Assistance Experiment
 
 　　The following videos show participants completing three assistance tasks: treadmill assistance, complex-terrain assistance, and outdoor overground assistance.
-
 <br>
 <video controls style="display:block; margin:0 auto; width:70%; max-width:900px;">
   <source src="https://github.com/k2muse/k2muse.github.io/releases/download/VideoAttachment/AssistanceSummary.mp4" type="video/mp4">
