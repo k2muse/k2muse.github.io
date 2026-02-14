@@ -378,13 +378,14 @@ permalink: "/datasets/"
 
 ### Older Adults
 
-　　The following are the frontal-view images of 12 older subjects in the ideal conditions experiments (0.5 m/s, 1.0 m/s):
+　　The following are the frontal-view images of 11 older subjects (a total of 12 participants) in the ideal conditions experiments (0.5 m/s, 1.0 m/s):
+　　
+　　Note: The photo of participant P31 was not taken, so one image is missing from the set above.
 
 <p align="center">
     <img src="../images/ParticipantsPictures_Older.png" alt="ParticipantsPictures_Older" width="90%"/>
 </p>
 
-　　Note: The photo of participant P31 was not taken, so one image is missing from the set above.
 
 
 ## Videos of Experiments
