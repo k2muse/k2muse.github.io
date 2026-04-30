@@ -9,17 +9,18 @@ header: no
 ---
 Citation：
 ```
-Li J, Zhang B, Tan X, et al. K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics[J]. arXiv preprint arXiv:2504.14602, 2025. doi: 10.48550/arXiv.2504.14602
+Li J, Zhang B, Tan X, et al. K2MUSE: A human lower-limb multimodal walking dataset spanning task and acquisition variability for rehabilitation robotics[J]. arXiv preprint arXiv:2504.14602, 2025. doi: 10.48550/arXiv.2504.14602
 ```
 
 ```
 @article{li2025k2muse,
-  title={K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics},
+  title={K2MUSE: A human lower-limb multimodal walking dataset spanning task and acquisition variability for rehabilitation robotics},
   author={Li, Jiwei and Zhang, Bi and Tan, Xiaowei and Chen, Wanxin and Liu, Zhaoyuan and Zhang, Juanjuan and Huo, Weiguang and Huang, Jian and Liu, Lianqing and Zhao, Xingang},
   journal={arXiv preprint arXiv:2504.14602},
   year={2025}
 }
 ```
+
 
 <object data="../pdf/K2MUSE.pdf" type="application/pdf" width="100%" height="800px">
     <embed src="../pdf/K2MUSE.pdf">
