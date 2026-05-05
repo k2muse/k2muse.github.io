@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Documentation"
 subheadline: "K2MUSE Dataset"
-teaser: "The documentation is preprint paper of K2MUSE Dataset"
+teaser: "The documentation is a paper of the K2MUSE Dataset"
 permalink: "/documentation/"
 header: no
 # Documentation Page
