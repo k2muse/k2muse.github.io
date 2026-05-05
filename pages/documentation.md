@@ -23,20 +23,6 @@ Li J, Zhang B, Tan X, et al. K2MUSE: A human lower-limb multimodal walking datas
 }
 ```
 
-The accepted manuscript is also available on arXiv:
-```
-Li J, Zhang B, Tan X, Chen W, Liu Z, Zhang J, Huo W, Huang J, Liu L, and Zhao X. K2MUSE: A human lower-limb multimodal walking dataset spanning task and acquisition variability for rehabilitation robotics. arXiv:2504.14602, 2025. doi: 10.48550/arXiv.2504.14602
-```
-
-```
-@article{li2025k2muse_arxiv,
-  title={K2MUSE: A human lower-limb multimodal walking dataset spanning task and acquisition variability for rehabilitation robotics},
-  author={Li, Jiwei and Zhang, Bi and Tan, Xiaowei and Chen, Wanxin and Liu, Zhaoyuan and Zhang, Juanjuan and Huo, Weiguang and Huang, Jian and Liu, Lianqing and Zhao, Xingang},
-  journal={arXiv preprint arXiv:2504.14602},
-  year={2025},
-  doi={10.48550/arXiv.2504.14602}
-}
-```
 
 <object data="../pdf/K2MUSE.pdf" type="application/pdf" width="100%" height="800px">
     <embed src="../pdf/K2MUSE.pdf">
